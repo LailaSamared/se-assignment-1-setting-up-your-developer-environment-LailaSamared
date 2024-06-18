@@ -2,7 +2,7 @@ Developer Environment Setup Documentation
 
 This document provides detailed step-by-step instructions for setting up a developer environment, from installing an operating system to configuring necessary tools and services.
 
-## 1. Install Windows 11
+## 1. Installing Windows 11
 
 ### Step-by-Step Instructions:
 1. Go to the [Windows 11 download page](https://www.microsoft.com/software-download/windows11).
@@ -11,9 +11,9 @@ This document provides detailed step-by-step instructions for setting up a devel
 4. Restart your computer when the installation is complete.
 
 ### Screenshot:
-*Include a screenshot of the Windows 11 desktop after installation.*
+![Screenshot_2024-06-15-11-28-22-358](https://github.com/LailaSamared/se-assignment-1-setting-up-your-developer-environment-LailaSamared/assets/133321338/f8847cbc-b8f3-447f-b6f1-68ee43d8f7f1)
 
-## 2. Install Visual Studio Code
+## 2. Installing Visual Studio Code
 
 ### Step-by-Step Instructions:
 1. Go to the [Visual Studio Code download page](https://code.visualstudio.com/Download).
@@ -21,11 +21,11 @@ This document provides detailed step-by-step instructions for setting up a devel
 3. Run the installer and follow the prompts to complete the installation.
 
 ### Screenshot:
-*Include a screenshot of Visual Studio Code after the first launch.*
+![Screenshot_2024-06-15-11-29-58-261](https://github.com/LailaSamared/se-assignment-1-setting-up-your-developer-environment-LailaSamared/assets/133321338/cfcb0e0f-b477-4197-a594-feed9d4f0d9e)
 
 ## 3. Set Up Version Control System
 
-### Install Git:
+### Installing Git:
 1. Go to the [Git download page](https://git-scm.com/downloads).
 2. Download the Windows installer and run it.
 3. Follow the installation steps, accepting the default options.
@@ -60,9 +60,9 @@ This document provides detailed step-by-step instructions for setting up a devel
     ```
 
 ### Screenshot:
-*Include a screenshot of the Git Bash terminal showing the first commit.*
+![Screenshot (62)](https://github.com/LailaSamared/se-assignment-1-setting-up-your-developer-environment-LailaSamared/assets/133321338/e96499f7-9081-4633-81e3-a2779661f9d1)
 
-## 4. Install Python
+## 4. Installing Python
 
 ### Step-by-Step Instructions:
 1. Go to the [Python download page](http://www.python.org).
@@ -71,7 +71,7 @@ This document provides detailed step-by-step instructions for setting up a devel
 4. Follow the installation prompts.
 
 ### Screenshot:
-*Include a screenshot of the command prompt showing Python version (`python --version`).*
+![Screenshot (63)](https://github.com/LailaSamared/se-assignment-1-setting-up-your-developer-environment-LailaSamared/assets/133321338/be52cb5a-9c8c-4f05-b43f-7633006c8457)
 
 ## 5. Install Package Managers (pip)
 
@@ -82,7 +82,7 @@ This document provides detailed step-by-step instructions for setting up a devel
     ```
 
 ### Screenshot:
-*Include a screenshot of the command prompt showing pip version.*
+![Screenshot (64)](https://github.com/LailaSamared/se-assignment-1-setting-up-your-developer-environment-LailaSamared/assets/133321338/77601db6-65f0-4753-bc72-3bda1fc83f3a)
 
 ## 6. Configure a Database (MySQL)
 
@@ -93,7 +93,7 @@ This document provides detailed step-by-step instructions for setting up a devel
 4. Configure MySQL server as per your preference during setup.
 
 ### Screenshot:
-*Include a screenshot of MySQL Workbench or MySQL command line showing a successful connection to the database.*
+![Screenshot_2024-06-15-11-39-36-299](https://github.com/LailaSamared/se-assignment-1-setting-up-your-developer-environment-LailaSamared/assets/133321338/748794f0-9ca1-4af3-ae72-c5a207ff4cd2)
 
 ## 7. Set Up Development Environments and Virtualization (Optional)
 
@@ -103,7 +103,7 @@ This document provides detailed step-by-step instructions for setting up a devel
 3. Follow the installation prompts and start Docker Desktop.
 
 ### Screenshot:
-*Include a screenshot of Docker Desktop running.*
+![Screenshot_2024-06-15-11-45-45-470](https://github.com/LailaSamared/se-assignment-1-setting-up-your-developer-environment-LailaSamared/assets/133321338/50c9aea1-85c5-4145-8588-ca1afce6a898)
 
 ## 8. Explore Extensions and Plugins
 
@@ -117,7 +117,11 @@ This document provides detailed step-by-step instructions for setting up a devel
     - Prettier - Code formatter
 
 ### Screenshot:
-*Include a screenshot of the Extensions view in Visual Studio Code with the mentioned extensions installed.*
+![Screenshot (67)](https://github.com/LailaSamared/se-assignment-1-setting-up-your-developer-environment-LailaSamared/assets/133321338/5089f3e7-60eb-46a1-b578-23d73057539d)
+![Screenshot (66)](https://github.com/LailaSamared/se-assignment-1-setting-up-your-developer-environment-LailaSamared/assets/133321338/b429cb81-77df-4a02-9304-e41f447bc8fc)
+![Screenshot (65)](https://github.com/LailaSamared/se-assignment-1-setting-up-your-developer-environment-LailaSamared/assets/133321338/bf45349c-23c3-45f7-846d-3a6f78b10ea3)
+![Screenshot (68)](https://github.com/LailaSamared/se-assignment-1-setting-up-your-developer-environment-LailaSamared/assets/133321338/d14b9941-1ead-4104-b1a0-2be19a979b36)
+
 
 ## 9. Document Your Setup
 
@@ -133,7 +137,7 @@ This document provides detailed step-by-step instructions for setting up a devel
     ```
 
 ### Screenshot:
-*Include a screenshot of the repository page on GitHub.*
+![Screenshot (69)](https://github.com/LailaSamared/se-assignment-1-setting-up-your-developer-environment-LailaSamared/assets/133321338/78b72c11-14fe-4740-8523-355d371b4d3c)
 
 ## 10. Reflection on Challenges
 
